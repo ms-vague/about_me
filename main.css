@@ -3,7 +3,7 @@ p:nth-child(1) {
 	font-color: #000000;
 	font-size: 26px;
 	background-color: #6897BB;
-	font-style: bold;
+	font-weight: bold;
 }
 
 p {
