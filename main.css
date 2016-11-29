@@ -1,3 +1,25 @@
-p {
-	color: red;
+p:nth-child(1) {
+	font-family:'Bungee Hairline', cursive;
+	font-color: #000000;
+	font-size: 26px;
+	background-color: #6897BB;
 }
+
+p {
+	font-family: monospace;
+	font-color: #726890;
+	font-size: 16px;
+	background-color: #EEEEEE;
+}
+
+.container-image {
+	text-align: center;
+	font-family: georgia, serif;
+	font-size: 14px;
+}
+
+img {
+   padding:1px;
+   border:1px solid #021a40;
+}
+
