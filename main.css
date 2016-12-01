@@ -1,4 +1,4 @@
-p:nth-child(1) {
+p.first {
 	font-family:'Bungee Hairline', cursive;
 	font-color: #000000;
 	font-size: 26px;
@@ -6,7 +6,7 @@ p:nth-child(1) {
 	font-weight: bold;
 }
 
-p {
+p.second {
 	font-family: monospace;
 	font-color: #726890;
 	font-size: 16px;
@@ -19,7 +19,7 @@ p {
 	font-size: 14px;
 }
 
-img {
+.old-laptop {
    	padding: 1px;
    	border: 1px solid #021a40;
 }
