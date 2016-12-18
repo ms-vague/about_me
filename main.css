@@ -33,7 +33,11 @@ p.second {
   	padding: 3em 0;
   }	
 
-  .h2 {
+  h2, h3 {
     font-size: 3em;
+  }
+
+  .old-laptop {
+  	padding: 3em 0;
   }
 }
